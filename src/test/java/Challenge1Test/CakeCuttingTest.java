@@ -1,6 +1,6 @@
-package JTest;
+package Challenge1Test;
 
-import J.CakeCutting;
+import Challenge1.CakeCutting;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

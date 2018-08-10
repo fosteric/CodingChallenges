@@ -1,6 +1,6 @@
-package JTest;
+package Challenge1Test;
 
-import J.GoodWizard;
+import Challenge1.GoodWizard;
 import org.junit.Test;
 
 public class GoodWizardTest {

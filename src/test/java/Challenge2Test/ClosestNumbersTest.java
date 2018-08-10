@@ -1,6 +1,6 @@
-package CTest;
+package Challenge2Test;
 
-import C.ClosestNumbers;
+import Challenge2.ClosestNumbers;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

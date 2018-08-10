@@ -1,4 +1,4 @@
-package J;
+package Challenge1;
 
 import java.util.HashSet;
 import java.util.Set;

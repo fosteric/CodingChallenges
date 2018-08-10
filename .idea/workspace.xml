@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8758d123-d830-406c-b628-7be548c7e4d8" name="Default" comment="" />
+    <list default="true" id="8758d123-d830-406c-b628-7be548c7e4d8" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/C/AccountNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Challenge2/AccountNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/C/ClosestNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Challenge2/ClosestNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/G/RotateCharsRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Challenge3/RotateCharsRight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/J/CakeCutting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Challenge1/CakeCutting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/J/GoodWizard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Challenge1/GoodWizard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/J/NGram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Challenge1/NGram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CTest/AccountNumbersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Challenge2Test/AccountNumbersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CTest/ClosestNumbersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Challenge2Test/ClosestNumbersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/GTest/RotateCharsRightTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Challenge3Test/RotateCharsRightTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JTest/CakeCuttingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Challenge1Test/CakeCuttingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JTest/GoodWizardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Challenge1Test/GoodWizardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JTest/NGramTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Challenge1Test/NGramTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/C/AccountNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/C/ClosestNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/G/RotateCharsRight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/J/CakeCutting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/J/GoodWizard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/J/NGram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CTest/AccountNumbersTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CTest/ClosestNumbersTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/GTest/RotateCharsRightTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/JTest/CakeCuttingTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/JTest/GoodWizardTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/JTest/NGramTest.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,110 +39,133 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CakeCuttingTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/JTest/CakeCuttingTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GoodWizardTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/JTest/GoodWizardTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NGramTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/JTest/NGramTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AccountNumbers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/C/AccountNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NGram.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/J/NGram.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClosestNumbers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/C/ClosestNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClosestNumbersTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/CTest/ClosestNumbersTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="68" column="24" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AccountNumbersTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/CTest/AccountNumbersTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RotateCharsRight.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/G/RotateCharsRight.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="48" lean-forward="true" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RotateCharsRightTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/GTest/RotateCharsRightTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="CakeCuttingTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/java/Challenge1Test/CakeCuttingTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="105">
+                  <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="GoodWizardTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/java/Challenge1Test/GoodWizardTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="270">
+                  <caret line="18" selection-start-line="18" selection-end-line="18" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="NGramTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/java/Challenge1Test/NGramTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="30">
+                  <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="NGram.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/Challenge1/NGram.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="30">
+                  <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/.gitignore">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="330">
+                  <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ClosestNumbers.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/Challenge2/ClosestNumbers.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="42">
+                  <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ClosestNumbersTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/java/Challenge2Test/ClosestNumbersTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1020">
+                  <caret line="68" column="24" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="AccountNumbersTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/java/Challenge2Test/AccountNumbersTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="30">
+                  <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="RotateCharsRight.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/Challenge3/RotateCharsRight.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="338">
+                  <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="RotateCharsRightTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/java/Challenge3Test/RotateCharsRightTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="480">
+                  <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="RotateCharsRightTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/java/Challenge3Test/RotateCharsRightTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="417">
+                  <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -123,6 +173,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -150,6 +203,9 @@
         <option value="$PROJECT_DIR$/src/test/java/GTest/RotateNumbersRightTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/GTest/RotateCharsRightTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/G/RotateCharsRight.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/test/java/Challenge3Test/RotateCharsRightTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Challenge3/RotateCharsRight.java" />
       </list>
     </option>
   </component>
@@ -170,9 +226,12 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="x" value="-320" />
+    <option name="y" value="-1080" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -210,7 +269,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="C" type="462c0819:PsiDirectoryNode" />
+              <item name="Challenge2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CodingChallenges" type="b2602c69:ProjectViewProjectNode" />
@@ -218,15 +277,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="G" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodingChallenges" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodingChallenges" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="J" type="462c0819:PsiDirectoryNode" />
+              <item name="Challenge3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CodingChallenges" type="b2602c69:ProjectViewProjectNode" />
@@ -247,7 +298,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="GTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Challenge3Test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -263,9 +314,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
   </component>
   <component name="RunDashboard">
@@ -282,12 +333,12 @@
   </component>
   <component name="RunManager" selected="JUnit.RotateCharsRightTest">
     <configuration name="AccountNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C.AccountNumbers" />
+      <option name="MAIN_CLASS_NAME" value="Challenge2.AccountNumbers" />
       <module name="CodingChallenges" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="ClosestNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C.ClosestNumbers" />
+      <option name="MAIN_CLASS_NAME" value="Challenge2.ClosestNumbers" />
       <module name="CodingChallenges" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -315,14 +366,14 @@
       <module name="CodingChallenges" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CTest.*" />
+          <option name="PATTERN" value="Challenge2Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="CTest" />
-      <option name="MAIN_CLASS_NAME" value="CTest.ClosestNumbersTest" />
+      <option name="PACKAGE_NAME" value="Challenge2Test" />
+      <option name="MAIN_CLASS_NAME" value="Challenge2Test.ClosestNumbersTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -338,14 +389,14 @@
       <module name="CodingChallenges" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GTest.*" />
+          <option name="PATTERN" value="Challenge3Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="GTest" />
-      <option name="MAIN_CLASS_NAME" value="GTest.RotateCharsRightTest" />
+      <option name="PACKAGE_NAME" value="Challenge3Test" />
+      <option name="MAIN_CLASS_NAME" value="Challenge3Test.RotateCharsRightTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -424,32 +475,11 @@
       <updated>1532983400710</updated>
       <workItem from="1532983404375" duration="8920000" />
       <workItem from="1533594286258" duration="6390000" />
-      <workItem from="1533906670713" duration="1739000" />
+      <workItem from="1533906670713" duration="7515000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_JPMorganHirevueAssessment - 2018.08.10 at 09h 19m 34s.xml">
-      <configuration name="All in JPMorganHirevueAssessment" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ClosestNumbersTest - 2018.08.10 at 09h 23m 25s.xml">
-      <configuration name="ClosestNumbersTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ClosestNumbersTest - 2018.08.10 at 09h 25m 42s.xml">
-      <configuration name="ClosestNumbersTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ClosestNumbersTest - 2018.08.10 at 09h 26m 43s.xml">
-      <configuration name="ClosestNumbersTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ClosestNumbersTest - 2018.08.10 at 09h 27m 30s.xml">
-      <configuration name="ClosestNumbersTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RotateCharsRightTest - 2018.08.10 at 09h 35m 09s.xml">
-      <configuration name="RotateCharsRightTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RotateCharsRightTest - 2018.08.10 at 09h 36m 22s.xml">
-      <configuration name="RotateCharsRightTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RotateCharsRightTest - 2018.08.10 at 09h 37m 06s.xml">
       <configuration name="RotateCharsRightTest" configurationId="JUnit" />
     </history-entry>
@@ -459,12 +489,33 @@
     <history-entry file="RotateCharsRightTest - 2018.08.10 at 09h 38m 20s.xml">
       <configuration name="RotateCharsRightTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RotateCharsRightTest - 2018.08.10 at 10h 36m 10s.xml">
+      <configuration name="RotateCharsRightTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RotateCharsRightTest - 2018.08.10 at 10h 37m 14s.xml">
+      <configuration name="RotateCharsRightTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RotateCharsRightTest - 2018.08.10 at 10h 40m 45s.xml">
+      <configuration name="RotateCharsRightTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RotateCharsRightTest - 2018.08.10 at 10h 42m 57s.xml">
+      <configuration name="RotateCharsRightTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RotateCharsRightTest - 2018.08.10 at 10h 44m 54s.xml">
+      <configuration name="RotateCharsRightTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RotateCharsRightTest - 2018.08.10 at 10h 46m 03s.xml">
+      <configuration name="RotateCharsRightTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RotateCharsRightTest - 2018.08.10 at 13h 12m 00s.xml">
+      <configuration name="RotateCharsRightTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17049000" />
+    <option name="totallyTimeSpent" value="22825000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="-320" y="-1080" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -476,12 +527,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31862068" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22985074" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32923076" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22374798" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14749734" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -512,7 +563,7 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/J/GoodWizard.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Challenge1/GoodWizard.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
@@ -522,7 +573,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/J/CakeCutting.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Challenge1/CakeCutting.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
@@ -532,7 +583,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/JTest/CakeCuttingTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Challenge1Test/CakeCuttingTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="50" column="25" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
@@ -542,7 +593,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/JTest/GoodWizardTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Challenge1Test/GoodWizardTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
@@ -552,28 +603,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/J/NGram.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Challenge1/NGram.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="18" selection-start-column="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/JTest/NGramTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Challenge1Test/NGramTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="22" selection-start-column="22" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/C/AccountNumbers.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Challenge2/AccountNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/C/ClosestNumbers.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Challenge2/ClosestNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="33" />
@@ -583,7 +634,7 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/J/CakeCutting.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Challenge1/CakeCutting.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
@@ -593,7 +644,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/JTest/CakeCuttingTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Challenge1Test/CakeCuttingTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="50" column="25" lean-forward="true" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
@@ -603,21 +654,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/JTest/GoodWizardTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Challenge1Test/GoodWizardTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/J/NGram.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Challenge1/NGram.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="18" selection-start-column="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/J/GoodWizard.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Challenge1/GoodWizard.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
@@ -631,7 +682,7 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/J/GoodWizard.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Challenge1/GoodWizard.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
@@ -641,7 +692,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/J/CakeCutting.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Challenge1/CakeCutting.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
@@ -651,21 +702,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/C/AccountNumbers.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Challenge2/AccountNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/C/ClosestNumbers.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Challenge2/ClosestNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/JTest/CakeCuttingTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Challenge1Test/CakeCuttingTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
@@ -675,7 +726,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/JTest/GoodWizardTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Challenge1Test/GoodWizardTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
@@ -685,21 +736,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/JTest/NGramTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Challenge1Test/NGramTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CTest/AccountNumbersTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CTest/ClosestNumbersTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Challenge2Test/ClosestNumbersTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
           <caret line="68" column="24" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
@@ -709,33 +753,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/G/RotateCharsRight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="48" lean-forward="true" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/GTest/RotateCharsRightTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/J/NGram.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Challenge1/NGram.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Challenge2Test/AccountNumbersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Challenge3Test/RotateCharsRightTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Challenge3/RotateCharsRight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -759,6 +844,19 @@
           </splitter-proportions>
         </settings>
       </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>CodingChallenges</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
@@ -773,6 +871,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -1,4 +1,4 @@
-package J;
+package Challenge1;
 
 public class NGram {
 }
