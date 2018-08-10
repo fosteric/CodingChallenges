@@ -7,7 +7,7 @@ import java.util.stream.Stream;
 public class RotateCharsRight {
 
 
-    public char[] rotateNumbersRightByArrays(char[] arrToRotate, int rotation) {
+    public char[] rotateNumbersRight(char[] arrToRotate, int rotation) {
         int trueRotation = findTrueRotation(arrToRotate.length, rotation);
         char[] newArray1 = Arrays.copyOfRange(arrToRotate, arrToRotate.length - trueRotation, arrToRotate.length);
         char[] newArray2 = Arrays.copyOfRange(arrToRotate, 0, arrToRotate.length - trueRotation);
@@ -25,17 +25,20 @@ public class RotateCharsRight {
         return convertCharacterArrToCharArr(returnStream.toArray(Character[]::new));
     }
 
-    public char[] rotateNumbersRight(char[] arrToRotate, int rotation) {
+    public char[] rotateNumbersRightByLoop(char[] arrToRotate, int rotation) {
         int trueRotation = findTrueRotation(arrToRotate.length, rotation);
         char[] returnArr = new char[arrToRotate.length];
-        for(int i=0; i<arrToRotate.length; i++){
-            if(returnArr.length - trueRotation - i < returnArr.length)
-            returnArr[i] = arrToRotate[returnArr.length - trueRotation - i];
+        for(int i=0; i<returnArr.length; i++){
+            if (arrToRotate.length - trueRotation + i < arrToRotate.length) {
+                returnArr[i] = arrToRotate[arrToRotate.length - trueRotation + i];
+            } else {
+                returnArr[i] = arrToRotate[i - trueRotation];
+            }
         }
         return returnArr;
     }
 
-    public Character[] convertCharArrToCharacterArr(char[] charArray){
+    private Character[] convertCharArrToCharacterArr(char[] charArray){
         Character[] newArray = new Character[charArray.length];
         for (int i=0; i<charArray.length; i++){
             newArray[i] = Character.valueOf(charArray[i]);
@@ -43,7 +46,7 @@ public class RotateCharsRight {
         return newArray;
     }
 
-    public char[] convertCharacterArrToCharArr(Character[] characterArray){
+    private char[] convertCharacterArrToCharArr(Character[] characterArray){
         char[] newArray = new char[characterArray.length];
         for (int i=0; i<characterArray.length; i++){
             newArray[i] = new Character(characterArray[i]);

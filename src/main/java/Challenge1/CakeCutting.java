@@ -25,4 +25,5 @@ public class CakeCutting {
             return -1;
         }
     }
+
 }

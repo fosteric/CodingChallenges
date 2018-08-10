@@ -45,6 +45,15 @@ public class RotateCharsRightTest {
     }
 
     @Test
+    public void rotateCharsRightTest5(){
+        RotateCharsRight rotateNumbersRight = new RotateCharsRight();
+        char[] charArr = {'h','e','l','l','o','g','e','t','g','u','r','u'};
+        char[] actual = rotateNumbersRight.rotateNumbersRight(charArr, 5);
+        char[] expected = {'t','g','u','r','u','h','e','l','l','o','g','e'};
+        assertArrayEquals(expected, actual);
+    }
+
+    @Test
     public void trueRotationTest1(){
         RotateCharsRight rotateNumbersRight = new RotateCharsRight();
         int actual = rotateNumbersRight.findTrueRotation(5, 3);
